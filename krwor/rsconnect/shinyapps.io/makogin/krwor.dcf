@@ -1,0 +1,10 @@
+name: krwor
+account: makogin
+server: shinyapps.io
+appId: 141959
+bundleId: 634905
+url: https://makogin.shinyapps.io/krwor/
+when: 1480802884.07464
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/images.jpg|www/Y.png
